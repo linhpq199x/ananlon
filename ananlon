@@ -132,7 +132,7 @@ _G.ConfigMain = {
     ["Auto Farm Soul Reaper"] = false,
     ["Auto Random bone"] = false,
 
-    ["Auto Farm Cake Prince"] = true,
+    ["Auto Farm Cake Prince"] = false,
 
     ["Auto Tushita"] = false,
     ["Auto Tushita Hop"] = false,
